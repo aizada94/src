@@ -16,10 +16,10 @@ public class Practice1 {
         switch (num){
             case 1:
                 System.out.println(num + " - Winter");
-               break;
+               //break;
             case 2:
                 System.out.println(num + " - Spring");
-              break;
+             // break;
             case 3:
                 System.out.println(num + " - Summer");
                break;
